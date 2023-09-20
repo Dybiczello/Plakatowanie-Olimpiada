@@ -1,0 +1,3 @@
+C:/Users/grama/CLionProjects/Atinea/cmake-build-debug/CMakeFiles/Atinea.dir
+C:/Users/grama/CLionProjects/Atinea/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/grama/CLionProjects/Atinea/cmake-build-debug/CMakeFiles/rebuild_cache.dir
