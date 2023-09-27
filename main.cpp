@@ -10,16 +10,10 @@ int plakaty() {
     std::cin.ignore();
 
     for(int i=0; i < liczba_budynkow; i++){
-        std::string szerokosc_wysokosc;
-        int szerokosc, wysokosc;
-
-        std::getline(std::cin, szerokosc_wysokosc);
-        std::istringstream iss(szerokosc_wysokosc);
-
-        if(iss >> szerokosc >> wysokosc){
-            lista[i] = wysokosc;
+        int szerokosc, wysokosc; scanf("%d%d",&szerokosc,&wysokosc);
+        lista[i] = wysokosc;
         }
-    }
+
 
     int p = 0;
     std::stack<int> stos;
